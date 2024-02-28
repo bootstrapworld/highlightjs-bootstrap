@@ -1,0 +1,26 @@
+{
+  "name": "highlightjs-bootstrap",
+  "version": "0.0.1",
+  "description": "highlight.js syntax definition for pyret and scheme",
+  "main": "src/pyret.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bootstrapworld/highlightjs-bootstrap.git"
+  },
+  "keywords": [
+    "pyret",
+    "scheme",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Emmanuel Schanzer <schanzer@bootstrapworld.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bootstrapworld/highlightjs-4d/issues"
+  },
+  "homepage": "https://github.com/bootstrapworld/"
+}
