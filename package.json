@@ -20,7 +20,8 @@
   "author": "Emmanuel Schanzer <schanzer@bootstrapworld.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bootstrapworld/highlightjs-4d/issues"
+    "url": "https://github.com/bootstrapworld/highlightjs-bootstrap/issues"
   },
-  "homepage": "https://github.com/bootstrapworld/"
+  "homepage": "https://github.com/bootstrapworld/",
+  "type": "module"
 }
