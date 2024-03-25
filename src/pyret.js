@@ -24,8 +24,9 @@ export default function(hljs) {
     'fun',
     'end',
     'block',
-    'load-table',
-    'source',
+    'load-table:',
+    'source:',
+    'block:',
   ];
 
   const BUILT_INS = [
